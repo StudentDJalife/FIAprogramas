@@ -1,0 +1,93 @@
+Todos los programas pueden ser consultados, pero algunos generan warnings:
+% d:/Documents/Prolog/completos/abuelo.pl compiled 0.02 sec, 3 clauses
+Warning: d:/documents/prolog/completos/arbolfam.pl:10:
+Warning:    Redefined static procedure padre/2
+Warning:    Previously defined at d:/documents/prolog/completos/abuelo.pl:2
+% d:/Documents/Prolog/completos/arbolfam.pl compiled 0.00 sec, 22 clauses
+% d:/Documents/Prolog/completos/caracteres.pl compiled 0.00 sec, 7 clauses
+% d:/Documents/Prolog/completos/cuentavocales.pl compiled 0.00 sec, 16 clauses
+Warning: d:/documents/prolog/completos/datos1.pl:1:
+Warning:    Singleton variables: [Roberto]
+% d:/Documents/Prolog/completos/datos1.pl compiled 0.00 sec, 4 clauses
+Warning: d:/documents/prolog/completos/datos1.pl:1:
+Warning:    Singleton variables: [Roberto]
+% d:/Documents/Prolog/completos/datos1.pl compiled 0.00 sec, 0 clauses
+% d:/Documents/Prolog/completos/datos1.pl compiled 0.00 sec, 0 clauses
+Warning: d:/documents/prolog/completos/lecturas.pl:7:
+Warning:    Redefined static procedure readin/0
+Warning:    Previously defined at d:/documents/prolog/completos/caracteres.pl:1
+Warning: d:/documents/prolog/completos/lecturas.pl:8:
+Warning:    Redefined static procedure process/1
+Warning:    Previously defined at d:/documents/prolog/completos/caracteres.pl:2
+Warning: d:/documents/prolog/completos/lecturas.pl:12:
+Warning:    Redefined static procedure cuenta/1
+Warning:    Previously defined at d:/documents/prolog/completos/caracteres.pl:5
+Warning: d:/documents/prolog/completos/lecturas.pl:13:
+Warning:    Redefined static procedure cuenta_aux/2
+Warning:    Previously defined at d:/documents/prolog/completos/caracteres.pl:6
+Warning: d:/documents/prolog/completos/lecturas.pl:14:
+Warning:    Redefined static procedure process/3
+Warning:    Previously defined at d:/documents/prolog/completos/caracteres.pl:7
+Warning: d:/documents/prolog/completos/lecturas.pl:18:
+Warning:    Redefined static procedure cuenta_vocales/1
+Warning:    Previously defined at d:/documents/prolog/completos/cuentavocales.pl:1
+Warning: d:/documents/prolog/completos/lecturas.pl:19:
+Warning:    Redefined static procedure cuenta_vocales_aux/2
+Warning:    Previously defined at d:/documents/prolog/completos/cuentavocales.pl:2
+Warning: d:/documents/prolog/completos/lecturas.pl:20:
+Warning:    Redefined static procedure process_vocales/3
+Warning:    Previously defined at d:/documents/prolog/completos/cuentavocales.pl:3
+Warning: d:/documents/prolog/completos/lecturas.pl:22:
+Warning:    Redefined static procedure processChar/3
+Warning:    Previously defined at d:/documents/prolog/completos/cuentavocales.pl:6
+Warning: d:/documents/prolog/completos/lecturas.pl:25:
+Warning:    Redefined static procedure vocal/1
+Warning:    Previously defined at d:/documents/prolog/completos/cuentavocales.pl:8
+% d:/Documents/Prolog/completos/lecturas.pl compiled 0.02 sec, 26 clauses
+% d:/Documents/Prolog/completos/listas.pl compiled 0.00 sec, 16 clauses
+Warning: d:/documents/prolog/completos/loc_ciudades.pl:2:
+Warning:    Redefined static procedure loc_en/2
+Warning:    Previously defined at d:/documents/prolog/completos/listas.pl:2
+% d:/Documents/Prolog/completos/loc_ciudades.pl compiled 0.00 sec, 7 clauses
+Warning: d:/documents/prolog/completos/loc_ciudadeslistas.pl:2:
+Warning:    Redefined static procedure loc_en/2
+Warning:    Previously defined at d:/documents/prolog/completos/listas.pl:2
+Warning: d:/documents/prolog/completos/loc_ciudadeslistas.pl:12:
+Warning:    Redefined static procedure gringas/1
+Warning:    Previously defined at d:/documents/prolog/completos/listas.pl:12
+% d:/Documents/Prolog/completos/loc_ciudadeslistas.pl compiled 0.00 sec, 13 clauses
+% d:/Documents/Prolog/completos/OrdenamientoBurbuja.pl compiled 0.02 sec, 4 clauses
+% d:/Documents/Prolog/completos/OrdenamientoInsercion.pl compiled 0.00 sec, 2 clauses
+% d:/Documents/Prolog/completos/ordenarlistas.pl compiled 0.00 sec, 6 clauses
+% d:/Documents/Prolog/completos/perros.pl compiled 0.00 sec, 12 clauses
+Warning: d:/documents/prolog/completos/prolog002.pl:1:
+Warning:    Singleton variables: [X,X1]
+Warning: d:/documents/prolog/completos/prolog002.pl:2:
+Warning:    Singleton variables: [Y,Y1]
+Warning: d:/documents/prolog/completos/prolog002.pl:5:
+Warning:    Redefined static procedure par/1
+Warning:    Previously defined at d:/documents/prolog/completos/lecturas.pl:1
+Warning: d:/documents/prolog/completos/prolog002.pl:6:
+Warning:    Redefined static procedure impar/1
+Warning:    Previously defined at d:/documents/prolog/completos/lecturas.pl:2
+Warning: d:/documents/prolog/completos/prolog002.pl:8:
+Warning:    Redefined static procedure nimpar/1
+Warning:    Previously defined at d:/documents/prolog/completos/lecturas.pl:4
+% d:/Documents/Prolog/completos/PROLOG002.pl compiled 0.00 sec, 7 clauses
+Warning: d:/documents/prolog/completos/tareajalife.pl:1:
+Warning:    Redefined static procedure jugador/1
+Warning:    Previously defined at d:/documents/prolog/completos/datos1.pl:1
+% d:/Documents/Prolog/completos/TareaJalife.pl compiled 0.00 sec, 9 clauses
+Warning: d:/documents/prolog/completos/uno.pl:1:
+Warning:    Redefined static procedure ancestro/2
+Warning:    Previously defined at d:/documents/prolog/completos/arbolfam.pl:1
+Warning: d:/documents/prolog/completos/uno.pl:5:
+Warning:    Redefined static procedure mujer/1
+Warning:    Previously defined at d:/documents/prolog/completos/arbolfam.pl:5
+Warning: d:/documents/prolog/completos/uno.pl:6:
+Warning:    Redefined static procedure hombre/1
+Warning:    Previously defined at d:/documents/prolog/completos/arbolfam.pl:6
+Warning: d:/documents/prolog/completos/uno.pl:9:
+Warning:    Redefined static procedure descendiente/2
+Warning:    Previously defined at d:/documents/prolog/completos/arbolfam.pl:12
+% d:/Documents/Prolog/completos/uno.pl compiled 0.00 sec, 14 clauses
